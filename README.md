@@ -29,3 +29,23 @@ tab-tamer/
    git clone https://github.com/yourusername/tab-tamer.git
    cd tab-tamer
 
+2. Open Chrome and go to chrome://extensions/.
+3. Enable **Developer mode** in the top right corner.
+4. Click on **Load unpacked** and select the tab-tamer folder.
+5. The extension will now be added to your browser.
+
+## :desktop_computer: Usage
+1. Click on the Tab Tamer icon in the Chrome toolbar.
+2. The popup will display the number of tabs open and options to close duplicates or suggest tabs to close.
+3. Click on the respective buttons to manage your tabs.
+
+## :bug: Known Issues
+- The extension may not work as expected if Chrome is running in the background.
+- Performance notifications may not display correctly on certain devices.
+- The extension may not work as expected on certain websites.
+- The extension may not work as expected on certain devices.
+
+## :handshake: Contribution Guidelines
+Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or have feature suggestions.
+
+## :License: License
