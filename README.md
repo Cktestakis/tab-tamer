@@ -15,4 +15,9 @@ Tab Tamer is a lightweight and intuitive Chrome extension designed to help users
 - **Chrome APIs**: Tab management, notifications, storage  
 
 ## 📂 Folder Structure  
-tab-tamer/ ├── manifest.json # Extension configuration ├── popup.html # Popup interface HTML ├── popup.js # Popup logic and tab operations ├── background.js # Background task for monitoring tabs ├── icon.png # Extension icon
+tab-tamer/ 
+├── manifest.json # Extension configuration 
+├── popup.html # Popup interface HTML 
+├── popup.js # Popup logic and tab operations 
+├── background.js # Background task for monitoring tabs 
+├── icon.png # Extension icon
