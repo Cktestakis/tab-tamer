@@ -21,3 +21,11 @@ tab-tamer/
 ├── popup.js # Popup logic and tab operations 
 ├── background.js # Background task for monitoring tabs 
 ├── icon.png # Extension icon
+
+
+## 🔧 Installation Guide  
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/tab-tamer.git
+   cd tab-tamer
+
