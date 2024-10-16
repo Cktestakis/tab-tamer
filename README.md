@@ -48,4 +48,8 @@ tab-tamer/
 ## :handshake: Contribution Guidelines
 Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or have feature suggestions.
 
-## :License: License
+## :page_facing_up: License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## :stars: Credits
+Created by Cody Ktestakis. Special thanks to all who provided feedback and inspiration for this project!
